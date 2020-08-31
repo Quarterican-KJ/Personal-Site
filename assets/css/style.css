@@ -1,0 +1,28 @@
+.background{
+    /*max-height: 35vh;*/
+	position: absolute;
+	width: 100vw;
+}
+.desktopMenu{
+	padding: 0 0;
+	text-align: center
+}
+.name{
+	color: #ff6500;
+	margin: 9% 0 0 0
+}
+.bioPic{
+	border-radius: 40%;
+	max-width: 50%;
+    position: absolute;
+	transform: translate(50%, 50%);
+    z-index: 1;
+}
+.bio{
+	background-color: #fff;
+	/*box-shadow: 0 -78px 165px orange!important;*/
+	position: relative;
+	padding: 135px 0 0 0;
+    margin: 45px 0 0 0;
+    height: 70vh;
+}
